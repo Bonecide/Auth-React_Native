@@ -1,15 +1,14 @@
 {
   "expo": {
-    "name": "auth",
-    "slug": "auth",
+    "name": "RNCourse",
+    "slug": "RNCourse",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#610440"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
